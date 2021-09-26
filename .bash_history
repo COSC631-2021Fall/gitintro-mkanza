@@ -115,3 +115,52 @@ ssh -T GITHUB-mkanza@github.com
 ssh -T git@github.com
 git remote add origin https://github.com/mkanza/repo.git
 ssh -T git@github.com
+ls
+ls -al ~/.ssh
+ssh -T git@github.com
+ /home/ec2-user/.ssh/github_ssh_key.pub.
+/home/ec2-user/ .ssh/github_ssh_key.pub
+ls
+git checkout /home/ec2-user/ .ssh/github_ssh_key.pub.
+git checkout/home/ec2-user/ .ssh/github_ssh_key.pub
+git checkout /home/ec2-user/ .ssh/github_ssh_key.pub
+ls
+git checkout main
+$ ls -al ~/.ssh
+$ ls -al ~/ .ssh
+ls -al ~/ .ssh
+0f6dc8985c9e3be8a
+ssh-Tgit@github.com
+ssh -T git@github.com
+open ~/.ssh/config
+ sudo -s -H
+~/.ssh/config
+~/.ssh/key
+~/.ssh/config
+touch ~/.ssh/config
+ls
+ssh -T git@github.com
+ls -al ~/.ssh
+cat ~/.ssh/id_rsa.pub
+cat ~/ .ssh/id_rsa.pub
+cat ~/.ssh/id_rsa.pub
+29026
+git fetcg
+git fetch
+git remote clear
+clear
+ssh-keygen -t ed25519 -C kmateen@emich.edu
+eval $(ssh-agent -s)
+ssh-add ~/.ssh/github_ssh_key
+cat ~/.ssh/github_ssh_key.pub
+ssh-Tgit@github.com
+ssh -T git@github.com
+chmod 600 ~/.ssh/config
+ssh -T git@github.com
+ls
+git remote -v
+git remote set-url 
+git remote set-url orgin git@github.com:COSC381-2021Fall/module-5-git-exercise-mkanza.git
+git remote set-url git@github.com:COSC381-2021Fall/module-5-git-exercise-mkanza.git
+push
+push git@github.com:COSC381-2021Fall/module-5-git-exercise-mkanza.git
